@@ -1,5 +1,7 @@
 name: boolean
-description: A starting point for Dart libraries or applications.
+description: Utility functions to convert strings and numbers to bools.
+version: 1.0.0
+repository: https://github.com/mjstel/boolean
 
 environment:
   sdk: ">=2.10.0 <3.0.0"
