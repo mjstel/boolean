@@ -1,6 +1,6 @@
 name: boolean
-description: Utility functions to convert strings and numbers to bools.
-version: 1.0.0
+description: Extension functions on strings and numbers to convert them to bools.
+version: 1.0.1
 repository: https://github.com/mjstel/boolean
 
 environment:
